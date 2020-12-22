@@ -1,0 +1,20 @@
+h1 {
+    font-size: 2.5rem;
+    padding: 10px;
+}
+
+.top-div {
+    margin: 20px;
+    text-align: center;
+}
+
+iframe {
+    width: 70%;
+    height: 70%;
+    border: none;
+}
+
+.metodo-about {
+    padding: 50px;
+    text-align: justify;
+}

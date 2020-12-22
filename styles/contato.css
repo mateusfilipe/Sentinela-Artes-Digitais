@@ -1,0 +1,26 @@
+h1 {
+    font-size: 1.5rem;
+    padding: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    padding: 0;
+}
+
+.escola_contato {
+    padding: 0 20px;
+    width: 40%;
+}
+
+form {
+    padding: 20px;
+}
+
+.map-form {
+    display: flex;
+}
