@@ -30,3 +30,8 @@ input::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
+
+.map {
+    height: 500px;
+    width: 500px;
+}
